@@ -58,8 +58,8 @@ I'm Tareq Abou Hjileh, a software developer with expertise in a wide range of te
    - 🖥️ Microsoft Office
      
 10. **Artificial Intelligence (AI)**
-   - 🤖 **ChatGPT 3.5 , 4**.
-   - 🚀 **Coplito**.
+   - 🤖 ChatGPT 3.5 , 4.
+   - 🚀 Coplito.
 
 🚀👨‍💻👩‍💻
 
