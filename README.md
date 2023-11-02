@@ -32,7 +32,7 @@ I'm Tareq Abou Hjileh, a software developer with expertise in a wide range of te
 
 4. **Windows and PowerShell**
    - 🪟 Windows Server
-   - 💻 Powershell
+   - 💻 PowerShell
 
 5. **Cloud and Azure Services**
    - ☁️ Microsoft Azure
@@ -56,14 +56,13 @@ I'm Tareq Abou Hjileh, a software developer with expertise in a wide range of te
 
 9. **Miscellaneous**
    - 🖥️ Microsoft Office
-     
+
 10. **Artificial Intelligence (AI)**
-   - 🤖 ChatGPT 3.5 , 4.
-   - 🚀 Coplito..
-
-🚀👨‍💻👩‍💻
+   - 🤖 ChatGPT 3.5
+   - 🚀 Coplito
 
 
+🚀👨‍💻👩‍💻🤖
 ## What I'm up to 🌱
 
 Currently, I'm always learning and staying up-to-date with the latest technologies and trends in software development.
