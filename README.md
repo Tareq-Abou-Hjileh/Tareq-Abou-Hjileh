@@ -4,50 +4,63 @@ I'm Tareq Abou Hjileh, a software developer with expertise in a wide range of te
 
 ## Skills and Interests 🚀
 
-## .NET Development
-⚙️ .NET Core
-🔧 .NET
-🧱 C#
-💼 ASP.NET
-🧬 Microsoft SQL Server
-🔧 .NET Framework
-##  Release and DevOps
-🚀 Release Management
-📜 YAML
-📜 Git
-🛠 Visual Studio
-☁️ Azure DevOps
-🚀 Azure DevOps Server
-## Frontend Development
-🌐 HTML
-🎨 Cascading Style Sheets (CSS)
-🖥️ HTML5
-🅰️ Angular Material
-🔧 Angular Command Line Interface (CLI)
-🅰️ Angular
-🅰️ AngularJS
-📜 TypeScript
-## Windows and PowerShell
-🪟 Windows Server
-💻 Powershell
-## Cloud and Azure Services
-☁️ Microsoft Azure
-🌊 Azure Data Lake
-🌐 Azure Functions
-🚌 Azure Service Bus
-⚙️ Azure API Management
-🌐 SQL Azure
-## Data Analysis and Documentation
-📖 API Documentation
-📊 Data Analysis
-📃 XML
-## Data Visualization
-📊 Power BI
-📈 Apache Superset
-## Python Programming
-🐍 Python (Programming Language)
-## Miscellaneous
-🖥️ Microsoft Office
+# GitHub Repository README
+
+1. **.NET Development**
+   - ⚙️ .NET Core
+   - 🔧 .NET
+   - 🧱 C#
+   - 💼 ASP.NET
+   - 🧬 Microsoft SQL Server
+   - 🔧 .NET Framework
+
+2. **Release and DevOps**
+   - 🚀 Release Management
+   - 📜 YAML
+   - 📜 Git
+   - 🛠 Visual Studio
+   - ☁️ Azure DevOps
+   - 🚀 Azure DevOps Server
+
+3. **Frontend Development**
+   - 🌐 HTML
+   - 🎨 Cascading Style Sheets (CSS)
+   - 🖥️ HTML5
+   - 🅰️ Angular Material
+   - 🔧 Angular Command Line Interface (CLI)
+   - 🅰️ Angular
+   - 🅰️ AngularJS
+   - 📜 TypeScript
+
+4. **Windows and PowerShell**
+   - 🪟 Windows Server
+   - 💻 Powershell
+
+5. **Cloud and Azure Services**
+   - ☁️ Microsoft Azure
+   - 🌊 Azure Data Lake
+   - 🌐 Azure Functions
+   - 🚌 Azure Service Bus
+   - ⚙️ Azure API Management
+   - 🌐 SQL Azure
+
+6. **Data Analysis and Documentation**
+   - 📖 API Documentation
+   - 📊 Data Analysis
+   - 📃 XML
+
+7. **Python Programming**
+   - 🐍 Python (Programming Language)
+
+8. **Data Visualization**
+   - 📊 Power BI
+   - 📈 Apache Superset
+
+9. **Miscellaneous**
+   - 🖥️ Microsoft Office
+
+🚀👨‍💻👩‍💻
+
 
 ## What I'm up to 🌱
 
