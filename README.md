@@ -4,42 +4,50 @@ I'm Tareq Abou Hjileh, a software developer with expertise in a wide range of te
 
 ## Skills and Interests 🚀
 
-- 🔧 .NET Core
-- 📊 Jira
-- 🚀 Release Management
-- 🪟 Windows Server
-- 💻 Powershell
-- 🌐 HTML
-- 🎨 Cascading Style Sheets (CSS)
-- 🔄 Continuous Integration and Continuous Delivery (CI/CD)
-- 📜 YAML
-- 🐍 Python (Programming Language)
-- 📖 API Documentation
-- 📊 Data Analysis
-- 🅰️ Angular Material
-- 🔧 Angular Command Line Interface (CLI)
-- 🅰️ Angular
-- 🅰️ AngularJS
-- 📜 TypeScript
-- ☁️ Azure DevOps
-- 🌊 Azure Data Lake
-- 🌐 Azure Functions
-- 🚌 Azure Service Bus
-- ⚙️ Azure API Management
-- 🌟 Frontend Development
-- 🖥️ HTML5
-- 🔧 .NET
-- 🧱 C#
-- 💼 ASP.NET
-- 🖥️ Microsoft Office
-- 🧬 Microsoft SQL Server
-- 📃 XML
-- 📜 Git
-- 🛠 Visual Studio
-- 🌐 SQL Azure
-- ☁️ Microsoft Azure
-- 🚀 Azure DevOps Server
-- 🔧 .NET Framework
+## .NET Development
+⚙️ .NET Core
+🔧 .NET
+🧱 C#
+💼 ASP.NET
+🧬 Microsoft SQL Server
+🔧 .NET Framework
+##  Release and DevOps
+🚀 Release Management
+📜 YAML
+📜 Git
+🛠 Visual Studio
+☁️ Azure DevOps
+🚀 Azure DevOps Server
+## Frontend Development
+🌐 HTML
+🎨 Cascading Style Sheets (CSS)
+🖥️ HTML5
+🅰️ Angular Material
+🔧 Angular Command Line Interface (CLI)
+🅰️ Angular
+🅰️ AngularJS
+📜 TypeScript
+## Windows and PowerShell
+🪟 Windows Server
+💻 Powershell
+## Cloud and Azure Services
+☁️ Microsoft Azure
+🌊 Azure Data Lake
+🌐 Azure Functions
+🚌 Azure Service Bus
+⚙️ Azure API Management
+🌐 SQL Azure
+## Data Analysis and Documentation
+📖 API Documentation
+📊 Data Analysis
+📃 XML
+## Data Visualization
+📊 Power BI
+📈 Apache Superset
+## Python Programming
+🐍 Python (Programming Language)
+## Miscellaneous
+🖥️ Microsoft Office
 
 ## What I'm up to 🌱
 
