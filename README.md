@@ -4,8 +4,6 @@ I'm Tareq Abou Hjileh, a software developer with expertise in a wide range of te
 
 ## Skills and Interests 🚀
 
-# GitHub Repository README
-
 1. **.NET Development**
    - ⚙️ .NET Core
    - 🔧 .NET
