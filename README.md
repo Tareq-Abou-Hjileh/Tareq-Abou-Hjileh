@@ -69,71 +69,49 @@ I'm Tareq Abou Hjileh, a software developer with expertise in a wide range of te
 
 ### 1. **Foundational Certification: Microsoft Certified: Fundamentals**
    - **Certification:** Microsoft Certified: Azure Fundamentals
-   - **Objective:** Gain a foundational understanding of Azure services and cloud concepts.
-   - **Resources:** Online courses, Microsoft Learn, and official exam preparation materials.
 
 ### 2. **Azure Developer Path: Microsoft Certified: Azure Developer Associate**
-   - **Certification:** Microsoft Certified: Azure Developer Associate
-   - **Objective:** Develop skills in designing, building, testing, and maintaining cloud solutions on Azure.
-   - **Resources:** Azure documentation, Microsoft Learn, hands-on labs, and practice exams.
+   - **Certification:** Microsoft Certified: Azure Developer Associate.
 
 ### 3. **DevOps Integration: Microsoft Certified: DevOps Engineer Expert**
    - **Certification:** Microsoft Certified: DevOps Engineer Expert
-   - **Objective:** Learn to implement DevOps practices for better collaboration between development and operations.
-   - **Resources:** Azure DevOps documentation, Microsoft Learn modules, and hands-on labs.
 
 ### 4. **Power Platform Development: Microsoft Certified: Power Platform Developer Associate**
    - **Certification:** Microsoft Certified: Power Platform Developer Associate
-   - **Objective:** Acquire skills in developing solutions with Power Apps, Power Automate, and Power Virtual Agents.
-   - **Resources:** Power Platform documentation, Microsoft Learn, and hands-on labs.
 
 ### 5. **Solution Architecture: Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert**
    - **Certification:** Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert
-   - **Objective:** Gain expertise in designing solutions that leverage Dynamics 365 and Power Platform components.
-   - **Resources:** Dynamics 365 and Power Platform documentation, Microsoft Learn, and case studies.
+
 
 ### 6. **Artificial Intelligence: Microsoft Certified: AI Engineer Associate**
    - **Certification:** Microsoft Certified: AI Engineer Associate
-   - **Objective:** Develop skills in designing and implementing AI solutions using Azure AI services.
-   - **Resources:** Azure AI documentation, Microsoft Learn AI modules, and hands-on projects.
+
 
 ### Additional Certifications (Optional, Based on Career Goals):
 
-- **Microsoft Certified: Azure Solutions Architect Expert:** For professionals designing and implementing solutions on Azure at an expert level.
-- **Microsoft Certified: Security, Compliance, and Identity Fundamentals:** To strengthen your understanding of security concepts in Microsoft environments.
-- **Microsoft Certified: Security Operations Analyst Associate:** For professionals dealing with security incidents and implementing security controls.
+- **Microsoft Certified: Azure Solutions Architect Expert
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- **Microsoft Certified: Security Operations Analyst Associate
 
 ## AI/ML Learning Roadmap 🤖📚
 
 ### 1. **Foundational Knowledge: Microsoft Certified: Azure AI Fundamentals**
    - **Certification:** Microsoft Certified: Azure AI Fundamentals
-   - **Objective:** Understand the foundational concepts of AI and ML, with a focus on Azure services.
-   - **Resources:** Azure AI documentation, Microsoft Learn modules, and online courses.
 
 ### 2. **Intermediate AI Development: Microsoft Certified: AI Engineer Associate**
    - **Certification:** Microsoft Certified: AI Engineer Associate
-   - **Objective:** Develop practical skills in designing and implementing AI solutions using Azure AI services.
-   - **Resources:** Azure AI documentation, Microsoft Learn AI modules, and hands-on projects.
 
 ### 3. **Advanced AI Solutions: Microsoft Certified: Azure AI Engineer Specialty**
    - **Certification:** Microsoft Certified: Azure AI Engineer Specialty
-   - **Objective:** Deepen your expertise in designing and implementing complex AI solutions on Azure.
-   - **Resources:** Advanced Azure AI documentation, case studies, and advanced machine learning projects.
 
 ### 4. **Machine Learning Development: Microsoft Certified: Machine Learning Engineer Associate**
    - **Certification:** Microsoft Certified: Machine Learning Engineer Associate
-   - **Objective:** Focus on machine learning development, including model training, deployment, and monitoring.
-   - **Resources:** Azure Machine Learning documentation, Microsoft Learn modules, and Kaggle competitions.
 
 ### 5. **Advanced Machine Learning Concepts: Microsoft Certified: Data Scientist Associate**
    - **Certification:** Microsoft Certified: Data Scientist Associate
-   - **Objective:** Learn advanced data science and machine learning concepts, including experimentation and model deployment.
-   - **Resources:** Data science and machine learning literature, research papers, and online courses.
 
 ### 6. **Custom AI Solutions: Microsoft Certified: AI + IoT Developer Specialty**
    - **Certification:** Microsoft Certified: AI + IoT Developer Specialty
-   - **Objective:** Explore the integration of AI with Internet of Things (IoT) solutions.
-   - **Resources:** Azure IoT documentation, Microsoft Learn IoT modules, and hands-on IoT projects.
 
 🚀 Keep coding and learning! 🚀
 ## What I'm up to 🌱
