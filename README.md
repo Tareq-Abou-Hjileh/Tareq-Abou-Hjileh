@@ -62,57 +62,6 @@ I'm Tareq Abou Hjileh, a software developer with expertise in a wide range of te
    - 🚀 Coplito
 🚀👨‍💻👩‍💻🤖
 
-
-### My Current Learning Roadmap 
-
-## Microsoft Certifications Roadmap 🎓
-
-### 1. **Foundational Certification: Microsoft Certified: Fundamentals**
-   - **Certification:** Microsoft Certified: Azure Fundamentals
-
-### 2. **Azure Developer Path: Microsoft Certified: Azure Developer Associate**
-   - **Certification:** Microsoft Certified: Azure Developer Associate.
-
-### 3. **DevOps Integration: Microsoft Certified: DevOps Engineer Expert**
-   - **Certification:** Microsoft Certified: DevOps Engineer Expert
-
-### 4. **Power Platform Development: Microsoft Certified: Power Platform Developer Associate**
-   - **Certification:** Microsoft Certified: Power Platform Developer Associate
-
-### 5. **Solution Architecture: Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert**
-   - **Certification:** Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert
-
-
-### 6. **Artificial Intelligence: Microsoft Certified: AI Engineer Associate**
-   - **Certification:** Microsoft Certified: AI Engineer Associate
-
-
-### Additional Certifications (Optional, Based on Career Goals):
-
-- **Microsoft Certified: Azure Solutions Architect Expert
-- **Microsoft Certified: Security, Compliance, and Identity Fundamentals
-- **Microsoft Certified: Security Operations Analyst Associate
-
-## AI/ML Learning Roadmap 🤖📚
-
-### 1. **Foundational Knowledge: Microsoft Certified: Azure AI Fundamentals**
-   - **Certification:** Microsoft Certified: Azure AI Fundamentals
-
-### 2. **Intermediate AI Development: Microsoft Certified: AI Engineer Associate**
-   - **Certification:** Microsoft Certified: AI Engineer Associate
-
-### 3. **Advanced AI Solutions: Microsoft Certified: Azure AI Engineer Specialty**
-   - **Certification:** Microsoft Certified: Azure AI Engineer Specialty
-
-### 4. **Machine Learning Development: Microsoft Certified: Machine Learning Engineer Associate**
-   - **Certification:** Microsoft Certified: Machine Learning Engineer Associate
-
-### 5. **Advanced Machine Learning Concepts: Microsoft Certified: Data Scientist Associate**
-   - **Certification:** Microsoft Certified: Data Scientist Associate
-
-### 6. **Custom AI Solutions: Microsoft Certified: AI + IoT Developer Specialty**
-   - **Certification:** Microsoft Certified: AI + IoT Developer Specialty
-
 🚀 Keep coding and learning! 🚀
 ## What I'm up to 🌱
 
